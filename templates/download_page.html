@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>download page</title>
+        <link rel="stylesheet" type="text/css" href="static\css\template2.css">
+    </head>
+    <body class="bg">
+        <form method="POST" action="{{ url_for('download_video') }}" > 
+            <h3 class="Title">{{ audio[3]}}</h5>
+            <div class="content">
+                <select name="itag" aria-label="Default select example" class="select_bar">
+                    {% for i in [0,1,2,3] %}
+                    <option value="{{ audio[1][i] }}"> {{ audio[1][i] }} {{ audio[2][i]  }} </option> 
+                    {% endfor %}
+                </select>
+                <button type="submit" class="button">Download</button>
+            </div>
+        </form>
+    </body>
+</html>
