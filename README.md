@@ -6,6 +6,8 @@ we are downloading the audio clip of the youtube videos using pafy library
 <h2>to use this web app </h2> <br>
 <b>step -1.</b> Go to youtube, chhose the video you want to download the audio for and copy the url <br />
 <b>step -2.</b> Paste the url in the box
+<b>step -3.</b> enter the search button
 <img width="954" alt="Annotation 2022-06-12 095515" src="https://user-images.githubusercontent.com/77840111/173497169-c0eb9bb6-f03c-4ae5-804e-722596018456.png">
-
-
+<b>step -4.</b> A new page would be opened. Now select the type and resolution from dropdown menu
+<b>step -5.</b> Enter the Download button.
+and BOOM your download will be started
