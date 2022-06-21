@@ -14,4 +14,7 @@ and BOOM your download will be started <br />
 
 
 <h2>Requirements</h2>
+<ul> python 3 </ul>
 <ul> pafy </ul>
+<ul> youtube_dl-2020 </ul>
+<ul> Flask </ul>
