@@ -14,4 +14,4 @@ and BOOM your download will be started <br />
 
 
 <h2>Requirements</h2>
-- 
+<ul> pafy </ul>
