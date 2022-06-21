@@ -11,3 +11,7 @@ we are downloading the audio clip of the youtube videos using pafy library
 <b>step -4.</b> A new page would be opened. Now select the type and resolution from dropdown menu <br />
 <b>step -5.</b> Enter the Download button. <br />
 and BOOM your download will be started <br />
+
+
+<h2>Requirements</h2>
+- 
